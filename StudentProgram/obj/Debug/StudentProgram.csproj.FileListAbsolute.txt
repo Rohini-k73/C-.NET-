@@ -1,0 +1,7 @@
+E:\.NET\C-.NET-\StudentProgram\bin\Debug\StudentProgram.exe.config
+E:\.NET\C-.NET-\StudentProgram\bin\Debug\StudentProgram.exe
+E:\.NET\C-.NET-\StudentProgram\bin\Debug\StudentProgram.pdb
+E:\.NET\C-.NET-\StudentProgram\obj\Debug\StudentProgram.csproj.AssemblyReference.cache
+E:\.NET\C-.NET-\StudentProgram\obj\Debug\StudentProgram.csproj.CoreCompileInputs.cache
+E:\.NET\C-.NET-\StudentProgram\obj\Debug\StudentProgram.exe
+E:\.NET\C-.NET-\StudentProgram\obj\Debug\StudentProgram.pdb
